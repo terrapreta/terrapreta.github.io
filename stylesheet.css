@@ -1,0 +1,22 @@
+html {
+	background-color:pink;
+}
+
+body {
+	max-width: 960px;
+}
+
+.firstparagraph {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding:20px;
+}
+
+#intro {
+	background-color: #43f5d1;
+	margin:40px;
+}
+
+#about {
+	background-color: orange;
+	padding:20px;
+}
